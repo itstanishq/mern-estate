@@ -1,7 +1,3 @@
-const test = (req, res) => {
-    res.send('Hello Tani!');
-
-} 
-
-
-export default test;
+export const test = (req, res) => {
+    res.send('Hii');
+    }
